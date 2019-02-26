@@ -1,0 +1,2 @@
+this is a community project. we write and collect scripts for polybar!
+
